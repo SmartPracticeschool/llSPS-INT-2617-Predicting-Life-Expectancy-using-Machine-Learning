@@ -9,7 +9,7 @@ Life expectancy is a statistical measure of the average time a human being is ex
 
 NODE-RED UI : https://shobana.eu-gb.mybluemix.net/ui/#!/0?socketid=FkLY2e-tP-Hpo9wUAAA8
 
-DEMO VIDEO :  https://drive.google.com/file/d/1EYvCAs0UBJ4HGEPCsoBqoWviX4eGQHEQ/view?usp=sharing
+PROJECT DEMONSTRATION VIDEO :  https://drive.google.com/file/d/1EYvCAs0UBJ4HGEPCsoBqoWviX4eGQHEQ/view?usp=sharing
 
 
 
