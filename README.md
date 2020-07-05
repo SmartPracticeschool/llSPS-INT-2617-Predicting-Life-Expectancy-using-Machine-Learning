@@ -11,5 +11,7 @@ NODE-RED UI : https://shobana.eu-gb.mybluemix.net/ui/#!/0?socketid=FkLY2e-tP-Hpo
 
 PROJECT DEMONSTRATION VIDEO :  https://drive.google.com/file/d/1EYvCAs0UBJ4HGEPCsoBqoWviX4eGQHEQ/view?usp=sharing
 
+SMARTINTERNZ FEEDBACK : https://drive.google.com/file/d/1rnNzSVKiQJR7xQGk_9zgq32F_LS1OE-D/view?usp=sharing
+
 
 
